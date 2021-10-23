@@ -1,0 +1,46 @@
+.se{
+        	padding:130px;
+        	text-align: center;
+        	margin:-190px;
+
+        }
+
+     .btn {
+        	margin:10px;
+        	padding:5px;
+        }
+        .btn:hover {
+        	background-color: #e7e7e7;
+        }
+        #googleicon{
+         width:30px;
+        }
+        .fi{
+         font-size:100px;
+         padding:100px;
+         text-align: center;
+         font-family:sans-serif;
+
+      }
+      .no-spacing { letter-spacing: -1em;}
+        .no-spacing > * { letter-spacing: normal; }
+      .con{
+         display:flex;
+         flex-wrap: wrap;
+        }
+        .con div{
+         text-align: right;
+         background-color:;
+         padding:5px;
+         margin:5px;
+         width:90px;
+        }
+        .con div button{
+         margin-left: 1300px;
+        }
+         .iput{
+         
+         border-radius: 25px;
+         width: 500px;
+         padding:5px;
+        }
